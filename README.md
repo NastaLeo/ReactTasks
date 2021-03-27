@@ -1,3 +1,0 @@
-# ReactTasks
-
-First ToDoList
